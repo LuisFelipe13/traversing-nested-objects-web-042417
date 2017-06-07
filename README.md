@@ -151,6 +151,6 @@ Can you implement breadth-first search in such a way that it will work for both 
 
 ## Resources
 
-- [breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search)
+- [breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search) 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/traversing-nested-objects'>Traversing Nested Objects</a> on Learn.co and start learning to code for free.</p>
